@@ -1,5 +1,5 @@
 from module import *
-
+#big dickus
 while keyboard.is_pressed('s') == False:
     fen = ""
     colorindicator = getPixelColor(1194,152)
